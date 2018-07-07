@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\bin\Debug\USPSAddressManagerData.dll
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\bin\Debug\USPSAddressManagerData.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\bin\Debug\USPSAddressManagerCore.dll
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\bin\Debug\USPSAddressManagerCore.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\obj\Debug\USPSAddressManagerData.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\obj\Debug\USPSAddressManagerData.dll
+c:\users\daniel\documents\visual studio 2015\Projects\USPSAddressManager\USPSAddressManagerData\obj\Debug\USPSAddressManagerData.pdb
